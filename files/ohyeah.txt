@@ -1,0 +1,3 @@
+EOS SETUP DOCS
+
+sudo pacman -Syu xdg-desktop-portal-gnome xdg-desktop-portal-kde p7zip audacity virtualbox btop
