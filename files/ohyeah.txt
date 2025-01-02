@@ -1,3 +1,4 @@
-EOS SETUP DOCS
+## EOS SETUP DOCS
 
-sudo pacman -Syu xdg-desktop-portal-gnome xdg-desktop-portal-kde p7zip audacity virtualbox btop
+#### PACMAN AFTER CHAOTIC AUR INSTALLATION
+p7zip audacity virtualbox btop ollama go rust kamoso fish vulkan-radeon zed element-desktop brave-bin vscodium
