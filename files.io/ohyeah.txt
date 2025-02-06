@@ -1,0 +1,14 @@
+EOS SETUP DOCS
+----------
+
+PACMAN APPS (default option)
+p7zip audacity virtualbox btop ollama go rust kamoso fish vulkan-radeon zed element-desktop
+
+CHAOTIC AUR (manuel install)
+brave-bin vscodium riseup-vpn ani-cli
+
+APPIMAGES (using gear lever)
+jan harmony-music anytype
+
+FLATPAK (flathub)
+flatpak install flathub it.mijorus.gearlever org.onlyoffice.desktopeditors org.nickvision.tubeconverter com.rtosta.zapzap fr.romainvigier.MetadataCleaner com.github.ADBeveridge.Raider com.usebottles.bottles com.microsoft.Edge app.zen_browser.zen
