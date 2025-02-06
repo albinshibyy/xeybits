@@ -11,4 +11,4 @@ APPIMAGES (using gear lever)
 jan harmony-music anytype
 
 FLATPAK (flathub)
-flatpak install flathub it.mijorus.gearlever org.onlyoffice.desktopeditors org.nickvision.tubeconverter com.rtosta.zapzap fr.romainvigier.MetadataCleaner com.github.ADBeveridge.Raider com.usebottles.bottles com.microsoft.Edge app.zen_browser.zen
+flatpak install flathub it.mijorus.gearlever org.onlyoffice.desktopeditors org.nickvision.tubeconverter com.rtosta.zapzap fr.romainvigier.MetadataCleaner com.github.ADBeveridge.Raider com.usebottles.bottles com.microsoft.Edge app.zen_browser.zen io.github.giantpinkrobots.varia
