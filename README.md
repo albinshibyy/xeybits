@@ -1,2 +1,2 @@
-# xeybits
-It's so damn xexy u fk
+# XeyBitS
+yeah, its damn xe*y u fk
