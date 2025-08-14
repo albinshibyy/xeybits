@@ -4,9 +4,9 @@
 ----
 
 ### ***Links:*** <br>
-***$ Minecraft config*** [portal](minecraft/MINECRAFT.md)
-***$ Archinstall config*** [portal](sysconfig/archinstall.md).
-***$ Endeavour config*** [portal](sysconfig/evoros.md).
+***$ Minecraft config*** [portal](minecraft/MINECRAFT.md) <br>
+***$ Archinstall config*** [portal](sysconfig/archinstall.md) <br>
+***$ Endeavour config*** [portal](sysconfig/evoros.md) <br>
 
 <div>
   <img width="max" src="assets/flow.svg">
