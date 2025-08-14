@@ -4,3 +4,4 @@
 ***Links***
 [evoros](https://github.com](https://albinshibyy.github.io/xeybits/sysconfig/evoros)
 
+<img width="max" src="assets/flow.svg">
