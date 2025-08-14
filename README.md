@@ -3,8 +3,8 @@
 
 ----
 
-***Links*** <br>
-Check out my portfolio [here](https://yourwebsite.com).
+### ***Links:*** <br>
+***Minecraft config*** [portal](minecraft/MINECRAFT).
 
 <div>
   <img width="max" src="assets/flow.svg">
