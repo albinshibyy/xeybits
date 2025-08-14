@@ -1,2 +1,2 @@
 ## ***XeyBitS***
-***yeah, its damn xe$y u fk***
+***yeah, its damn xe!y u fk***
