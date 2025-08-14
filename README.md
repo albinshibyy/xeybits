@@ -4,7 +4,7 @@
 ----
 
 ### ***Links:*** <br>
-***Minecraft config*** [portal](minecraft/MINECRAFT).
+***Minecraft config*** [portal](minecraft/MINECRAFT.md).
 
 <div>
   <img width="max" src="assets/flow.svg">
